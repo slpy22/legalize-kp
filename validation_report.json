@@ -1,0 +1,1868 @@
+{
+  "total_laws": 310,
+  "success": 288,
+  "warnings": 22,
+  "failures": 0,
+  "details": [
+    {
+      "law_name": "가격법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\가격법\\법령.md"
+    },
+    {
+      "law_name": "가공무역법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\가공무역법\\법령.md"
+    },
+    {
+      "law_name": "가족법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\가족법\\법령.md"
+    },
+    {
+      "law_name": "각급 인민회의 대의원선거법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\각급 인민회의 대의원선거법\\법령.md"
+    },
+    {
+      "law_name": "간석지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\간석지법\\법령.md"
+    },
+    {
+      "law_name": "갑문법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\갑문법\\법령.md"
+    },
+    {
+      "law_name": "개성공업지구법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=46, 실제=49 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\개성공업지구법\\법령.md"
+    },
+    {
+      "law_name": "건설감독법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\건설감독법\\법령.md"
+    },
+    {
+      "law_name": "건설법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\건설법\\법령.md"
+    },
+    {
+      "law_name": "건설설계법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\건설설계법\\법령.md"
+    },
+    {
+      "law_name": "검찰감시법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\검찰감시법\\법령.md"
+    },
+    {
+      "law_name": "경제개발구법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=62, 실제=64 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\경제개발구법\\법령.md"
+    },
+    {
+      "law_name": "경제수역에서의 외국인경제활동법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\경제수역에서의 외국인경제활동법\\법령.md"
+    },
+    {
+      "law_name": "계량법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\계량법\\법령.md"
+    },
+    {
+      "law_name": "고등교육법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=68, 실제=74 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\고등교육법\\법령.md"
+    },
+    {
+      "law_name": "공무원법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\공무원법\\법령.md"
+    },
+    {
+      "law_name": "공무원자격판정법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\공무원자격판정법\\법령.md"
+    },
+    {
+      "law_name": "공민등록법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\공민등록법\\법령.md"
+    },
+    {
+      "law_name": "공업도안법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\공업도안법\\법령.md"
+    },
+    {
+      "law_name": "공원, 유원지관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\공원, 유원지관리법\\법령.md"
+    },
+    {
+      "law_name": "공인법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\공인법\\법령.md"
+    },
+    {
+      "law_name": "공중위생법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\공중위생법\\법령.md"
+    },
+    {
+      "law_name": "공증법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\공증법\\법령.md"
+    },
+    {
+      "law_name": "과수법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\과수법\\법령.md"
+    },
+    {
+      "law_name": "과학기술법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\과학기술법\\법령.md"
+    },
+    {
+      "law_name": "과학기술성과도입법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\과학기술성과도입법\\법령.md"
+    },
+    {
+      "law_name": "과학기술인재관리법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=43, 실제=37 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\과학기술인재관리법\\법령.md"
+    },
+    {
+      "law_name": "광천법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\광천법\\법령.md"
+    },
+    {
+      "law_name": "교원법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\교원법\\법령.md"
+    },
+    {
+      "law_name": "교육강령집행법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\교육강령집행법\\법령.md"
+    },
+    {
+      "law_name": "교육법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\교육법\\법령.md"
+    },
+    {
+      "law_name": "구타행위방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\구타행위방지법\\법령.md"
+    },
+    {
+      "law_name": "국가기밀보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국가기밀보호법\\법령.md"
+    },
+    {
+      "law_name": "국가상징법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국가상징법\\법령.md"
+    },
+    {
+      "law_name": "국가예산수입법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국가예산수입법\\법령.md"
+    },
+    {
+      "law_name": "국가장의법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국가장의법\\법령.md"
+    },
+    {
+      "law_name": "국경동식물검역법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국경동식물검역법\\법령.md"
+    },
+    {
+      "law_name": "국경위생검역법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국경위생검역법\\법령.md"
+    },
+    {
+      "law_name": "국경통과지점관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국경통과지점관리법\\법령.md"
+    },
+    {
+      "law_name": "국기법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국기법\\법령.md"
+    },
+    {
+      "law_name": "국장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국장법\\법령.md"
+    },
+    {
+      "law_name": "국적법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국적법\\법령.md"
+    },
+    {
+      "law_name": "국제상품전람회법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국제상품전람회법\\법령.md"
+    },
+    {
+      "law_name": "국제철도화물수송법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국제철도화물수송법\\법령.md"
+    },
+    {
+      "law_name": "국토계획법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국토계획법\\법령.md"
+    },
+    {
+      "law_name": "국토환경보호단속법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\국토환경보호단속법\\법령.md"
+    },
+    {
+      "law_name": "군중신고법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\군중신고법\\법령.md"
+    },
+    {
+      "law_name": "귀금속관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\귀금속관리법\\법령.md"
+    },
+    {
+      "law_name": "규격법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\규격법\\법령.md"
+    },
+    {
+      "law_name": "금강산국제관광특구법",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일",
+      "file": "E:/004_북한법/legalize-kp/kp\\금강산국제관광특구법\\법령.md"
+    },
+    {
+      "law_name": "금속공업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\금속공업법\\법령.md"
+    },
+    {
+      "law_name": "금수산태양궁전법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\금수산태양궁전법\\법령.md"
+    },
+    {
+      "law_name": "금연법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\금연법\\법령.md"
+    },
+    {
+      "law_name": "금융감독법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\금융감독법\\법령.md"
+    },
+    {
+      "law_name": "기계공업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\기계공업법\\법령.md"
+    },
+    {
+      "law_name": "기계설계법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\기계설계법\\법령.md"
+    },
+    {
+      "law_name": "기구법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\기구법\\법령.md"
+    },
+    {
+      "law_name": "기밀법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\기밀법\\법령.md"
+    },
+    {
+      "law_name": "기상법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\기상법\\법령.md"
+    },
+    {
+      "law_name": "기상수문법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\기상수문법\\법령.md"
+    },
+    {
+      "law_name": "기술수출입법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\기술수출입법\\법령.md"
+    },
+    {
+      "law_name": "기업소법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\기업소법\\법령.md"
+    },
+    {
+      "law_name": "내화물관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\내화물관리법\\법령.md"
+    },
+    {
+      "law_name": "녀성권리보장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\녀성권리보장법\\법령.md"
+    },
+    {
+      "law_name": "년로자보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\년로자보호법\\법령.md"
+    },
+    {
+      "law_name": "농약법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\농약법\\법령.md"
+    },
+    {
+      "law_name": "농업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\농업법\\법령.md"
+    },
+    {
+      "law_name": "농작물종자관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\농작물종자관리법\\법령.md"
+    },
+    {
+      "law_name": "농장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\농장법\\법령.md"
+    },
+    {
+      "law_name": "다른 나라 배대리업무법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\다른 나라 배대리업무법\\법령.md"
+    },
+    {
+      "law_name": "단위특수화, 본위주의반대법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\단위특수화, 본위주의반대법\\법령.md"
+    },
+    {
+      "law_name": "담배통제법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\담배통제법\\법령.md"
+    },
+    {
+      "law_name": "당의유일적령도체계확립의 10대 원칙",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일, 조문수",
+      "file": "E:/004_북한법/legalize-kp/kp\\당의유일적령도체계확립의 10대 원칙\\헌법.md"
+    },
+    {
+      "law_name": "대기오염방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\대기오염방지법\\법령.md"
+    },
+    {
+      "law_name": "대동강오염방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\대동강오염방지법\\법령.md"
+    },
+    {
+      "law_name": "대외결제법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\대외결제법\\법령.md"
+    },
+    {
+      "law_name": "대외경제계약법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\대외경제계약법\\법령.md"
+    },
+    {
+      "law_name": "대외경제중재법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\대외경제중재법\\법령.md"
+    },
+    {
+      "law_name": "대외민사관계법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\대외민사관계법\\법령.md"
+    },
+    {
+      "law_name": "대응조치법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\대응조치법\\법령.md"
+    },
+    {
+      "law_name": "도로교통법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\도로교통법\\법령.md"
+    },
+    {
+      "law_name": "도로법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\도로법\\법령.md"
+    },
+    {
+      "law_name": "도서관법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\도서관법\\법령.md"
+    },
+    {
+      "law_name": "도시경영법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\도시경영법\\법령.md"
+    },
+    {
+      "law_name": "도시계획법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\도시계획법\\법령.md"
+    },
+    {
+      "law_name": "도시미화법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\도시미화법\\법령.md"
+    },
+    {
+      "law_name": "독성물질취급법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\독성물질취급법\\법령.md"
+    },
+    {
+      "law_name": "라선경제무역지대법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=83, 실제=85 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\라선경제무역지대법\\법령.md"
+    },
+    {
+      "law_name": "량정법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\량정법\\법령.md"
+    },
+    {
+      "law_name": "령수증법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\령수증법\\법령.md"
+    },
+    {
+      "law_name": "로동보수법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\로동보수법\\법령.md"
+    },
+    {
+      "law_name": "로동보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\로동보호법\\법령.md"
+    },
+    {
+      "law_name": "로동정량법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\로동정량법\\법령.md"
+    },
+    {
+      "law_name": "림업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\림업법\\법령.md"
+    },
+    {
+      "law_name": "마약관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\마약관리법\\법령.md"
+    },
+    {
+      "law_name": "마약범죄방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\마약범죄방지법\\법령.md"
+    },
+    {
+      "law_name": "명승지, 천연기념물보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\명승지, 천연기념물보호법\\법령.md"
+    },
+    {
+      "law_name": "무역법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\무역법\\법령.md"
+    },
+    {
+      "law_name": "무역짐배용선중개법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\무역짐배용선중개법\\법령.md"
+    },
+    {
+      "law_name": "무역화물검수법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\무역화물검수법\\법령.md"
+    },
+    {
+      "law_name": "무인기법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\무인기법\\법령.md"
+    },
+    {
+      "law_name": "문헌법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\문헌법\\법령.md"
+    },
+    {
+      "law_name": "문화유물보호법",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일",
+      "file": "E:/004_북한법/legalize-kp/kp\\문화유물보호법\\법령.md"
+    },
+    {
+      "law_name": "문화유산보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\문화유산보호법\\법령.md"
+    },
+    {
+      "law_name": "물자소비기준법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\물자소비기준법\\법령.md"
+    },
+    {
+      "law_name": "물자원법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\물자원법\\법령.md"
+    },
+    {
+      "law_name": "민법",
+      "status": "warning",
+      "message": "장(章) 수 불일치: 기대=5, 실제=17",
+      "file": "E:/004_북한법/legalize-kp/kp\\민법\\법령.md"
+    },
+    {
+      "law_name": "민사소송법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\민사소송법\\법령.md"
+    },
+    {
+      "law_name": "민용항공법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\민용항공법\\법령.md"
+    },
+    {
+      "law_name": "민족유산보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\민족유산보호법\\법령.md"
+    },
+    {
+      "law_name": "바다오염방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\바다오염방지법\\법령.md"
+    },
+    {
+      "law_name": "반동문화사상문화배격법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\반동문화사상문화배격법\\법령.md"
+    },
+    {
+      "law_name": "발권법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\발권법\\법령.md"
+    },
+    {
+      "law_name": "발명법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\발명법\\법령.md"
+    },
+    {
+      "law_name": "방사성오염방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\방사성오염방지법\\법령.md"
+    },
+    {
+      "law_name": "방송법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\방송법\\법령.md"
+    },
+    {
+      "law_name": "방송시설법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\방송시설법\\법령.md"
+    },
+    {
+      "law_name": "배길표식법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\배길표식법\\법령.md"
+    },
+    {
+      "law_name": "배등록법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\배등록법\\법령.md"
+    },
+    {
+      "law_name": "배안전법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\배안전법\\법령.md"
+    },
+    {
+      "law_name": "법제정법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\법제정법\\법령.md"
+    },
+    {
+      "law_name": "변호사법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\변호사법\\법령.md"
+    },
+    {
+      "law_name": "보통강오염방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\보통강오염방지법\\법령.md"
+    },
+    {
+      "law_name": "보통교육법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\보통교육법\\법령.md"
+    },
+    {
+      "law_name": "보험법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\보험법\\법령.md"
+    },
+    {
+      "law_name": "부동산관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\부동산관리법\\법령.md"
+    },
+    {
+      "law_name": "부림소관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\부림소관리법\\법령.md"
+    },
+    {
+      "law_name": "북남경제협력법",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일",
+      "file": "E:/004_북한법/legalize-kp/kp\\북남경제협력법\\법령.md"
+    },
+    {
+      "law_name": "비상방역법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=2, 실제=89 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\비상방역법\\법령.md"
+    },
+    {
+      "law_name": "사회급양법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\사회급양법\\법령.md"
+    },
+    {
+      "law_name": "사회보험 및 사회보장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\사회보험 및 사회보장법\\법령.md"
+    },
+    {
+      "law_name": "사회주의농총발전법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\사회주의농총발전법\\법령.md"
+    },
+    {
+      "law_name": "사회주의로동법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\사회주의로동법\\법령.md"
+    },
+    {
+      "law_name": "사회주의상업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\사회주의상업법\\법령.md"
+    },
+    {
+      "law_name": "사회주의재산관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\사회주의재산관리법\\법령.md"
+    },
+    {
+      "law_name": "사회주의헌법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\사회주의헌법\\헌법.md"
+    },
+    {
+      "law_name": "산림법",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일",
+      "file": "E:/004_북한법/legalize-kp/kp\\산림법\\법령.md"
+    },
+    {
+      "law_name": "산업미술법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\산업미술법\\법령.md"
+    },
+    {
+      "law_name": "살림집법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\살림집법\\법령.md"
+    },
+    {
+      "law_name": "상속법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\상속법\\법령.md"
+    },
+    {
+      "law_name": "상수도법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\상수도법\\법령.md"
+    },
+    {
+      "law_name": "상업은행법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\상업은행법\\법령.md"
+    },
+    {
+      "law_name": "상업회의소법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\상업회의소법\\법령.md"
+    },
+    {
+      "law_name": "상표법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\상표법\\법령.md"
+    },
+    {
+      "law_name": "상품식별부호관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\상품식별부호관리법\\법령.md"
+    },
+    {
+      "law_name": "상품식별부호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\상품식별부호법\\법령.md"
+    },
+    {
+      "law_name": "석탄법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\석탄법\\법령.md"
+    },
+    {
+      "law_name": "선원법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\선원법\\법령.md"
+    },
+    {
+      "law_name": "설비관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\설비관리법\\법령.md"
+    },
+    {
+      "law_name": "세관법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\세관법\\법령.md"
+    },
+    {
+      "law_name": "세외부담방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\세외부담방지법\\법령.md"
+    },
+    {
+      "law_name": "소금법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\소금법\\법령.md"
+    },
+    {
+      "law_name": "소방법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\소방법\\법령.md"
+    },
+    {
+      "law_name": "손해보상법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\손해보상법\\법령.md"
+    },
+    {
+      "law_name": "수로법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\수로법\\법령.md"
+    },
+    {
+      "law_name": "수산법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\수산법\\법령.md"
+    },
+    {
+      "law_name": "수의방역법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\수의방역법\\법령.md"
+    },
+    {
+      "law_name": "수의약품관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\수의약품관리법\\법령.md"
+    },
+    {
+      "law_name": "수입물자소독법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\수입물자소독법\\법령.md"
+    },
+    {
+      "law_name": "수재교육법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\수재교육법\\법령.md"
+    },
+    {
+      "law_name": "수출입상품검사법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\수출입상품검사법\\법령.md"
+    },
+    {
+      "law_name": "수출품원산지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\수출품원산지법\\법령.md"
+    },
+    {
+      "law_name": "시, 군건설세멘트보장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\시, 군건설세멘트보장법\\법령.md"
+    },
+    {
+      "law_name": "시, 군발전법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\시, 군발전법\\법령.md"
+    },
+    {
+      "law_name": "식료품위생법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\식료품위생법\\법령.md"
+    },
+    {
+      "law_name": "신소청원법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\신소청원법\\법령.md"
+    },
+    {
+      "law_name": "신의주특별행정구기본법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=101, 실제=105 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\신의주특별행정구기본법\\법령.md"
+    },
+    {
+      "law_name": "쏘프트웨어보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\쏘프트웨어보호법\\법령.md"
+    },
+    {
+      "law_name": "쏘프트웨어산업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\쏘프트웨어산업법\\법령.md"
+    },
+    {
+      "law_name": "아동권리보장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\아동권리보장법\\법령.md"
+    },
+    {
+      "law_name": "약초법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\약초법\\법령.md"
+    },
+    {
+      "law_name": "양어법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\양어법\\법령.md"
+    },
+    {
+      "law_name": "어린이보육교양법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\어린이보육교양법\\법령.md"
+    },
+    {
+      "law_name": "에네르기관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\에네르기관리법\\법령.md"
+    },
+    {
+      "law_name": "연유법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\연유법\\법령.md"
+    },
+    {
+      "law_name": "연해 및 강하천운수법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\연해 및 강하천운수법\\법령.md"
+    },
+    {
+      "law_name": "열 및 내압설비감독법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\열 및 내압설비감독법\\법령.md"
+    },
+    {
+      "law_name": "외국인기업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국인기업법\\법령.md"
+    },
+    {
+      "law_name": "외국인투자기업로동법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국인투자기업로동법\\법령.md"
+    },
+    {
+      "law_name": "외국인투자기업재정관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국인투자기업재정관리법\\법령.md"
+    },
+    {
+      "law_name": "외국인투자기업파산법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국인투자기업파산법\\법령.md"
+    },
+    {
+      "law_name": "외국인투자법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국인투자법\\법령.md"
+    },
+    {
+      "law_name": "외국투자기업 및 외국인세금법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국투자기업 및 외국인세금법\\법령.md"
+    },
+    {
+      "law_name": "외국투자기업등록법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국투자기업등록법\\법령.md"
+    },
+    {
+      "law_name": "외국투자기업회계검증법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국투자기업회계검증법\\법령.md"
+    },
+    {
+      "law_name": "외국투자기업회계법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국투자기업회계법\\법령.md"
+    },
+    {
+      "law_name": "외국투자은행법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외국투자은행법\\법령.md"
+    },
+    {
+      "law_name": "외화관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\외화관리법\\법령.md"
+    },
+    {
+      "law_name": "우주개발법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\우주개발법\\법령.md"
+    },
+    {
+      "law_name": "원격교육법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\원격교육법\\법령.md"
+    },
+    {
+      "law_name": "원림녹화법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\원림녹화법\\법령.md"
+    },
+    {
+      "law_name": "원림법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\원림법\\법령.md"
+    },
+    {
+      "law_name": "원산지명 및 지리적표시법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\원산지명 및 지리적표시법\\법령.md"
+    },
+    {
+      "law_name": "원자력법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\원자력법\\법령.md"
+    },
+    {
+      "law_name": "유기산업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\유기산업법\\법령.md"
+    },
+    {
+      "law_name": "유색금속법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\유색금속법\\법령.md"
+    },
+    {
+      "law_name": "유용동물보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\유용동물보호법\\법령.md"
+    },
+    {
+      "law_name": "유전자전이생물안전법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\유전자전이생물안전법\\법령.md"
+    },
+    {
+      "law_name": "육아법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\육아법\\법령.md"
+    },
+    {
+      "law_name": "의료감정법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\의료감정법\\법령.md"
+    },
+    {
+      "law_name": "의료법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\의료법\\법령.md"
+    },
+    {
+      "law_name": "의약품관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\의약품관리법\\법령.md"
+    },
+    {
+      "law_name": "이동통신법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\이동통신법\\법령.md"
+    },
+    {
+      "law_name": "인민경제계획법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\인민경제계획법\\법령.md"
+    },
+    {
+      "law_name": "인민반조직운영법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\인민반조직운영법\\법령.md"
+    },
+    {
+      "law_name": "인민보건법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\인민보건법\\법령.md"
+    },
+    {
+      "law_name": "인민보안단속법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\인민보안단속법\\법령.md"
+    },
+    {
+      "law_name": "인민보안법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\인민보안법\\법령.md"
+    },
+    {
+      "law_name": "인삼법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\인삼법\\법령.md"
+    },
+    {
+      "law_name": "자금세척 및 테로자금지원반대법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\자금세척 및 테로자금지원반대법\\법령.md"
+    },
+    {
+      "law_name": "자금세척방지법",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일",
+      "file": "E:/004_북한법/legalize-kp/kp\\자금세척방지법\\법령.md"
+    },
+    {
+      "law_name": "자동차운수법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\자동차운수법\\법령.md"
+    },
+    {
+      "law_name": "자연보호구법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\자연보호구법\\법령.md"
+    },
+    {
+      "law_name": "자위적핵보유국의 지위를 더욱 공고히 할데 대하여",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일, 조문수",
+      "file": "E:/004_북한법/legalize-kp/kp\\자위적핵보유국의 지위를 더욱 공고히 할데 대하여\\법령.md"
+    },
+    {
+      "law_name": "자유경제무역지대법",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일",
+      "file": "E:/004_북한법/legalize-kp/kp\\자유경제무역지대법\\법령.md"
+    },
+    {
+      "law_name": "자재관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\자재관리법\\법령.md"
+    },
+    {
+      "law_name": "작물유전자원관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\작물유전자원관리법\\법령.md"
+    },
+    {
+      "law_name": "잠업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\잠업법\\법령.md"
+    },
+    {
+      "law_name": "장애자보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\장애자보호법\\법령.md"
+    },
+    {
+      "law_name": "재산집행법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\재산집행법\\법령.md"
+    },
+    {
+      "law_name": "재생에네르기법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\재생에네르기법\\법령.md"
+    },
+    {
+      "law_name": "재자원화법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\재자원화법\\법령.md"
+    },
+    {
+      "law_name": "재정법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=64, 실제=60 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\재정법\\법령.md"
+    },
+    {
+      "law_name": "재판소구성법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\재판소구성법\\법령.md"
+    },
+    {
+      "law_name": "재해방지 및 구조, 복구법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\재해방지 및 구조, 복구법\\법령.md"
+    },
+    {
+      "law_name": "저작권법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\저작권법\\법령.md"
+    },
+    {
+      "law_name": "적십자회법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\적십자회법\\법령.md"
+    },
+    {
+      "law_name": "적지물처리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\적지물처리법\\법령.md"
+    },
+    {
+      "law_name": "전기통신법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\전기통신법\\법령.md"
+    },
+    {
+      "law_name": "전력법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\전력법\\법령.md"
+    },
+    {
+      "law_name": "전염병예방법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\전염병예방법\\법령.md"
+    },
+    {
+      "law_name": "전자결제법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\전자결제법\\법령.md"
+    },
+    {
+      "law_name": "전자인증법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\전자인증법\\법령.md"
+    },
+    {
+      "law_name": "전파관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\전파관리법\\법령.md"
+    },
+    {
+      "law_name": "정보보안법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\정보보안법\\법령.md"
+    },
+    {
+      "law_name": "정보식별부호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\정보식별부호법\\법령.md"
+    },
+    {
+      "law_name": "제대군관 생활조건보장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\제대군관 생활조건보장법\\법령.md"
+    },
+    {
+      "law_name": "제품생산허가법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\제품생산허가법\\법령.md"
+    },
+    {
+      "law_name": "조선로동당규약",
+      "status": "warning",
+      "message": "필수 필드 누락: 채택일",
+      "file": "E:/004_북한법/legalize-kp/kp\\조선로동당규약\\헌법.md"
+    },
+    {
+      "law_name": "조약법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\조약법\\법령.md"
+    },
+    {
+      "law_name": "종합무역장관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\종합무역장관리법\\법령.md"
+    },
+    {
+      "law_name": "종합설비수입법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\종합설비수입법\\법령.md"
+    },
+    {
+      "law_name": "주물품협동생산법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\주물품협동생산법\\법령.md"
+    },
+    {
+      "law_name": "주민연료법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\주민연료법\\법령.md"
+    },
+    {
+      "law_name": "주민행정법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\주민행정법\\법령.md"
+    },
+    {
+      "law_name": "중소탄광법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\중소탄광법\\법령.md"
+    },
+    {
+      "law_name": "중소형발전소법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\중소형발전소법\\법령.md"
+    },
+    {
+      "law_name": "중앙은행법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\중앙은행법\\법령.md"
+    },
+    {
+      "law_name": "중재법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\중재법\\법령.md"
+    },
+    {
+      "law_name": "지방예산법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\지방예산법\\법령.md"
+    },
+    {
+      "law_name": "지방주권기관법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\지방주권기관법\\법령.md"
+    },
+    {
+      "law_name": "지진, 화산피해방지 및 구조법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\지진, 화산피해방지 및 구조법\\법령.md"
+    },
+    {
+      "law_name": "지하자원법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\지하자원법\\법령.md"
+    },
+    {
+      "law_name": "지하철도법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\지하철도법\\법령.md"
+    },
+    {
+      "law_name": "철도법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\철도법\\법령.md"
+    },
+    {
+      "law_name": "철도차량법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\철도차량법\\법령.md"
+    },
+    {
+      "law_name": "철도화물수송법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\철도화물수송법\\법령.md"
+    },
+    {
+      "law_name": "청년교양보장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\청년교양보장법\\법령.md"
+    },
+    {
+      "law_name": "체신법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\체신법\\법령.md"
+    },
+    {
+      "law_name": "체육법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\체육법\\법령.md"
+    },
+    {
+      "law_name": "체육시설법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\체육시설법\\법령.md"
+    },
+    {
+      "law_name": "총기류관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\총기류관리법\\법령.md"
+    },
+    {
+      "law_name": "축산법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\축산법\\법령.md"
+    },
+    {
+      "law_name": "출입국법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\출입국법\\법령.md"
+    },
+    {
+      "law_name": "출판법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\출판법\\법령.md"
+    },
+    {
+      "law_name": "콤퓨터망관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\콤퓨터망관리법\\법령.md"
+    },
+    {
+      "law_name": "콤퓨터쏘프트웨어보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\콤퓨터쏘프트웨어보호법\\법령.md"
+    },
+    {
+      "law_name": "토지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\토지법\\법령.md"
+    },
+    {
+      "law_name": "토지임대법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\토지임대법\\법령.md"
+    },
+    {
+      "law_name": "통계법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\통계법\\법령.md"
+    },
+    {
+      "law_name": "판결판정집행법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\판결판정집행법\\법령.md"
+    },
+    {
+      "law_name": "페기페설물취급법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\페기페설물취급법\\법령.md"
+    },
+    {
+      "law_name": "편의봉사법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\편의봉사법\\법령.md"
+    },
+    {
+      "law_name": "평양문화어보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\평양문화어보호법\\법령.md"
+    },
+    {
+      "law_name": "평양시관리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\평양시관리법\\법령.md"
+    },
+    {
+      "law_name": "폭발물처리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\폭발물처리법\\법령.md"
+    },
+    {
+      "law_name": "품질감독법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\품질감독법\\법령.md"
+    },
+    {
+      "law_name": "하수도법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\하수도법\\법령.md"
+    },
+    {
+      "law_name": "하천법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\하천법\\법령.md"
+    },
+    {
+      "law_name": "합영법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\합영법\\법령.md"
+    },
+    {
+      "law_name": "합작법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\합작법\\법령.md"
+    },
+    {
+      "law_name": "항만법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\항만법\\법령.md"
+    },
+    {
+      "law_name": "항무감독법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\항무감독법\\법령.md"
+    },
+    {
+      "law_name": "해난사고처리법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\해난사고처리법\\법령.md"
+    },
+    {
+      "law_name": "해사감독법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\해사감독법\\법령.md"
+    },
+    {
+      "law_name": "해사소송관계법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\해사소송관계법\\법령.md"
+    },
+    {
+      "law_name": "해상짐수송법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\해상짐수송법\\법령.md"
+    },
+    {
+      "law_name": "해상탐색 및 구조법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\해상탐색 및 구조법\\법령.md"
+    },
+    {
+      "law_name": "해외동포권익옹호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\해외동포권익옹호법\\법령.md"
+    },
+    {
+      "law_name": "해운법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\해운법\\법령.md"
+    },
+    {
+      "law_name": "핵무력정책에 대하여",
+      "status": "warning",
+      "message": "필수 필드 누락: 조문수",
+      "file": "E:/004_북한법/legalize-kp/kp\\핵무력정책에 대하여\\법령.md"
+    },
+    {
+      "law_name": "행정검열법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\행정검열법\\법령.md"
+    },
+    {
+      "law_name": "행정구역법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\행정구역법\\법령.md"
+    },
+    {
+      "law_name": "행정처벌법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\행정처벌법\\법령.md"
+    },
+    {
+      "law_name": "허풍방지법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\허풍방지법\\법령.md"
+    },
+    {
+      "law_name": "혁명사적사업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\혁명사적사업법\\법령.md"
+    },
+    {
+      "law_name": "형민사감정법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\형민사감정법\\법령.md"
+    },
+    {
+      "law_name": "형법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=329, 실제=327 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\형법\\법령.md"
+    },
+    {
+      "law_name": "형법부칙(일반범죄)",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\형법부칙(일반범죄)\\법령.md"
+    },
+    {
+      "law_name": "형사소송법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=1055, 실제=435 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\형사소송법\\법령.md"
+    },
+    {
+      "law_name": "화약류취급법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\화약류취급법\\법령.md"
+    },
+    {
+      "law_name": "화장법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\화장법\\법령.md"
+    },
+    {
+      "law_name": "화폐류통법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\화폐류통법\\법령.md"
+    },
+    {
+      "law_name": "화학공업법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\화학공업법\\법령.md"
+    },
+    {
+      "law_name": "환경보호법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\환경보호법\\법령.md"
+    },
+    {
+      "law_name": "환경영향평가법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\환경영향평가법\\법령.md"
+    },
+    {
+      "law_name": "황금평, 위화도경제지대법",
+      "status": "warning",
+      "message": "조문수 불일치: 기대=74, 실제=76 (허용범위 ±2)",
+      "file": "E:/004_북한법/legalize-kp/kp\\황금평, 위화도경제지대법\\법령.md"
+    },
+    {
+      "law_name": "회계검증법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\회계검증법\\법령.md"
+    },
+    {
+      "law_name": "회계법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\회계법\\법령.md"
+    },
+    {
+      "law_name": "흑색금속법",
+      "status": "success",
+      "message": "검증 통과",
+      "file": "E:/004_북한법/legalize-kp/kp\\흑색금속법\\법령.md"
+    }
+  ]
+}
